@@ -1,0 +1,15 @@
+.about-title {
+  font-weight: 700;
+  color: #0a4275;
+}
+
+.about-card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease-in-out;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.highlight-section {
+  background: linear-gradient(45deg, #0a4275, #00c6ff);
+}

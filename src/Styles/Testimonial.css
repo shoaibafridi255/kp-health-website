@@ -1,0 +1,7 @@
+.testimonial-card {
+  border-left: 5px solid #00a884;
+  transition: transform 0.3s;
+}
+.testimonial-card:hover {
+  transform: translateY(-5px);
+}
